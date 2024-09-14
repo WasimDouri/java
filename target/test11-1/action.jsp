@@ -13,10 +13,7 @@
     </head>
     <body>
         <h1>Hello World!</h1>
-        <%  String mily=request.getParameter("mile");
-        Double km=Double.parseDouble(mily)*1.6;
-        System.out.println(km);
-        %>
+       
     </body>
    
 </html>
