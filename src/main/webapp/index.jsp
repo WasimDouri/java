@@ -13,7 +13,7 @@
     </head>
     <body><center>
         <h1>Mile to Km conversion program</h1>
-        <form action= "action.jsp"  method="post">
+        <form action= "act"  method="post">
            Inter Mile Value: <input type="text"  name="mile" >
             <input type="submit" value="Convert to Km">
         </form></center>
